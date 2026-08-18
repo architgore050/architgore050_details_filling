@@ -1,0 +1,11 @@
+=============================================
+  Engineered to Build API
+  Running on http://localhost:5000
+  Health: http://localhost:5000/api/health
+=============================================
+[2026-08-18T16:42:55.152Z] GET /api/health 200 25ms
+[2026-08-18T16:42:55.523Z] GET /api/team 200 4ms
+[2026-08-18T16:43:06.454Z] GET /api/health 200 2ms
+[2026-08-18T16:43:07.405Z] GET /api/team 200 2ms
+[2026-08-18T16:43:18.995Z] GET /api/team/1 200 5ms
+[2026-08-18T16:43:19.787Z] GET /api/team/99 404 3ms
