@@ -13,13 +13,18 @@ export const team = [
   {
     id: 2,
     name: 'Archit Sandeep Gore',
-    role: 'AI / ML Engineer',
-    github: '',
-    linkedin: '',
-    bio: 'Works at the intersection of AI experimentation and software reliability.',
+    role: 'AI / ML Engineer (learning) + Forward Deployed Engineer (intermediate)',
+    github: 'https://github.com/architgore050',
+    linkedin: 'https://www.linkedin.com/in/architgore/',
+    bio: "Archit's works has been at the intersection of AI experimentation and software reliability. He is equally comfortable training a model and trying to break an implementation until it behaves. But he is a fast learner and adapts to any domain.",
     workAtZito:
-      'Tested systems, looked for unexpected behaviour, identified edge cases, and continuously challenged implementations.',
-    futureProjects: ['AI agents', 'ML systems', 'Generative AI applications'],
+      'Tested the platform extensively, found bugs, did prompt engineering for the team.',
+    futureProjects: [
+      'XGBoost for Crypto Trading on OHLCV 1-minute interval data',
+      'Upgrade to kairix daemon project with custom inference engine, better TUI and better harness engineering tools',
+      'Recommendation Algorithm for a passive entertainment startup',
+      'and many more to come',
+    ],
   },
   {
     id: 3,

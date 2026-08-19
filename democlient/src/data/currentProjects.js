@@ -6,23 +6,23 @@
 export const currentProjects = [
   {
     index: '01',
-    title: 'AI System',
+    title: 'Indicator-Based Algo Trading (XAUUSD)',
     status: 'In progress',
-    description: 'Currently experimenting with a machine-learning system — details will land here soon.',
+    description: 'Walk-forward validation with Bayesian optimization on 1-minute gold OHLCV data. GPU-accelerated indicator math via cudf/cupy. Two strategies (VM confluence-based and TV-inspired) under active research.',
     notes: 'Edit in src/data/projects.js',
   },
   {
     index: '02',
-    title: 'Full-Stack Platform',
+    title: 'Robotic Arm 3D Simulation',
     status: 'In progress',
-    description: 'Currently building a full-stack platform across frontend and backend — updates coming.',
+    description: 'AI agent pipeline controlling a UR5 arm in PyBullet. SAM 2.1 vision, LLM reasoning, inverse kinematics. Drop-in replacement for ESP32-CAM hardware.',
     notes: 'Edit in src/data/projects.js',
   },
   {
     index: '03',
-    title: 'Developer Tool',
-    status: 'Exploring',
-    description: 'Currently exploring a developer tooling idea that could make everyday workflows faster.',
+    title: 'Kairix Daemon',
+    status: 'In progress',
+    description: 'Local AI agent running quantized Granite 3.2 2B GGUF. Web browsing, file I/O, shell execution via tool calling. Zero frameworks — everything hand-written.',
     notes: 'Edit in src/data/projects.js',
   },
 ];
@@ -32,6 +32,9 @@ export const currentProjects = [
 // ============================================================
 
 export const futurePlans = [
+  'XGBoost for crypto trading on OHLCV 1-minute interval data',
+  'Upgrade kairix daemon with custom inference engine, better TUI and better harness engineering tools',
+  'Recommendation algorithm for a passive entertainment startup',
   'Stronger full-stack systems built end to end',
   'AI-powered applications that solve real problems',
   'Developer tooling worth reaching for',

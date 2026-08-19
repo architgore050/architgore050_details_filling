@@ -28,10 +28,10 @@ function Hero() {
           <Reveal delay={0.2}>
             <p className="hero__copy">
               We are <strong>Tathagato, Archit, and Devansh</strong> — three 2nd-year CSE students
-              working across <strong>frontend</strong>, <strong>AI</strong>, and{' '}
+              working across <strong>frontend</strong>, <strong>AI/ML Ops</strong>, and{' '}
               <strong>backend engineering</strong>. We have already worked together on real startup
               software through <strong>ZITO Logistics</strong> — designing interfaces, investigating
-              production issues, testing systems, and solving real engineering problems.
+              production issues, testing systems, doing prompt engineering, and solving real engineering problems.
             </p>
           </Reveal>
 
@@ -56,7 +56,7 @@ function Hero() {
               </div>
               <div className="hero__meta-item">
                 <span className="hero__meta-label">Disciplines</span>
-                <span className="hero__meta-value">Frontend · AI/ML · Backend</span>
+                <span className="hero__meta-value">Frontend · AI/ML Ops · Backend</span>
               </div>
               <div className="hero__meta-item">
                 <span className="hero__meta-label">Experience</span>

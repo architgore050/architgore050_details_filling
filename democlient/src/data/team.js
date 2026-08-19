@@ -36,12 +36,12 @@ export const team = [
     id: 2,
     index: '02',
     name: 'Archit Sandeep Gore',
-    role: 'AI / ML Engineer',
+    role: 'AI / ML Engineer (learning) + Forward Deployed Engineer (intermediate)',
     tagline: 'Systems that learn — and systems that hold up.',
     intro:
-      'Archit works at the intersection of AI experimentation and software reliability. He is equally comfortable training a model and trying to break an implementation until it behaves.',
+      "Archit's works has been at the intersection of AI experimentation and software reliability. He is equally comfortable training a model and trying to break an implementation until it behaves. But he is a fast lrarner and adopts to any domain",
     zitoContribution:
-      'Spent significant time testing systems, looking for unexpected behaviour, identifying edge cases, and continuously challenging implementations at ZITO Logistics.',
+      'Tested the platform extensively, found bugs, did prompt engineering for the team.',
     strengths: [
       'Python',
       'Machine Learning',
@@ -49,16 +49,19 @@ export const team = [
       'Testing',
       'Problem solving',
       'Data-driven thinking',
+      'adaptive / learning rate',
+      'LLM Applications',
     ],
     currentProjects: [
-      'An AI experiment in progress — details coming soon.',
-      'Reliability and edge-case testing on real systems.',
+      'Indicator-based algo trading for XAUUSD — walk-forward validation with Bayesian optimization on 1-minute OHLCV data.',
+      'Robotic arm vision & actuation — 3D simulated AI agent pipeline controlling a UR5 arm with SAM 2.1 perception.',
+      'Kairix Daemon — local AI agent running a quantized Granite model with web browsing, file I/O, and shell execution.',
     ],
-    interests: ['Generative AI', 'ML systems', 'AI agents', 'Computer vision / NLP', 'AI + software engineering'],
+    interests: ['Generative AI', 'ML systems', 'AI agents', 'Computer vision / NLP', 'AI + software engineering', 'LLM Applications', 'Algorithmic trading'],
     futureDirection:
       'Building intelligent systems that solve useful real-world problems rather than AI for the sake of AI.',
-    githubUrl: 'https://github.com/archit', // TODO: replace
-    linkedinUrl: 'https://www.linkedin.com/in/archit', // TODO: replace
+    githubUrl: 'https://github.com/architgore050',
+    linkedinUrl: 'https://www.linkedin.com/in/architgore/'
   },
   {
     id: 3,

@@ -9,14 +9,14 @@ A portfolio showcasing the work of three engineers who built and shipped at ZITO
 | Member | Role | Focus |
 |---|---|---|
 | **Tathagato Chatterjee** | Frontend Engineer | React, UI/UX, Client-Side Architecture |
-| **Archit Sandeep Gore** | QA Engineer | Testing, Bug Finding, Quality Assurance |
+| **Archit Sandeep Gore** | AI ML Ops | LLMs and how to use them (learning) |
 | **Devansh Gaur** | Backend Engineer | Node.js, API Design, Database Architecture |
 
 ##  What We Did at ZITO
 
 - **Tathagato** — Built the entire frontend of the ZITO Logistics website, making it look good and easy to use for customers
 - **Devansh** — Found and fixed the surge pricing bug, handled backend infrastructure
-- **Archit** — Tested the platform extensively, found bugs, and ensured quality before release
+- **Archit** — Tested the platform extensively, found bugs, did prompt engineering for the team
 
 ## 🛠 Tech Stack
 

@@ -20,9 +20,9 @@ export const zitoExperience = [
   {
     index: '03',
     area: 'AI + Testing',
-    name: 'Archit',
+    name: 'Archit Sandeep Gore',
     description:
-      'Tested systems aggressively, searched for edge cases, and continuously challenged system behaviour to surface inconsistencies before they reached real users.',
+      'Tested systems aggressively, searched for edge cases, did prompt engineering for the team, and continuously challenged system behaviour to surface inconsistencies before they reached real users.',
   },
 ];
 
